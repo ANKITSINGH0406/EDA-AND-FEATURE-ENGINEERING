@@ -1,4 +1,4 @@
-ZOMATO DATASET EXPLORATORY DATA ANALYSIS---
+1.ZOMATO DATASET EXPLORATORY DATA ANALYSIS---
 Performed Exploratory Data Analysis of Zomato Dataset
 IN DATA ANALYSIS WHAT ALL THINGS WE DO
 1. MISSING VALUES
@@ -6,9 +6,11 @@ IN DATA ANALYSIS WHAT ALL THINGS WE DO
 3. EXPLORE ABOUT CATEGORICAL VARIABLES
 4. FINDING RELATIONSHIP BETWEEN FEATURES
 
+Observation: zomato maximum records or transaction are from india
+after that usa and then india
 
 
 
-A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from last month.
+2.A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from last month.
 
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
