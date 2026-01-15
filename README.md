@@ -23,6 +23,7 @@ after that usa and then india
 3.2.maximum number of rating are between 2.5 to 3.4
 
 4.Obsevation:
+4.1.online deliveries are available in india and UAE
 
 2.A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from last month.
 
